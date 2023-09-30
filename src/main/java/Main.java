@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class Main {
-zzzv
+
     private static final String PATH = "src/main/resources/";
 
     public static void main(String[] args) throws IOException{
