@@ -1,0 +1,17 @@
+{
+  "brand": "Audi",
+  "model": "RS5",
+  "turbo": true,
+  "capacityEngine": 2,
+  "exterior": {
+    "nardoGreyColor": 9000,
+    "matrixHeadlight": 4000,
+    "akrapovicExhaust": 7500
+  },
+  "interior": {
+    "leatherSterringWheel": 500,
+    "alcantaraOnSeat": 5000,
+    "speedometerInKmh": 3200
+  }
+}
+

@@ -1,0 +1,17 @@
+{
+  "brand": "Audi",
+  "model": "RS6",
+  "turbo": true,
+  "capacityEngine": 2,
+  "exterior": {
+    "nardoGreyColor": 5000,
+    "matrixHeadlight": 4000,
+    "akrapovicExhaust": 7500
+  },
+  "interior": {
+    "leatherSterringWheel": 500,
+    "alcantaraOnSeat": 6000,
+    "speedometerInKmh": 3200
+  }
+}
+

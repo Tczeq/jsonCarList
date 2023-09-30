@@ -1,0 +1,17 @@
+{
+  "brand": "Audi",
+  "model": "RS3",
+  "turbo": true,
+  "capacityEngine": 2,
+  "exterior": {
+    "nardoGreyColor": 2000,
+    "matrixHeadlight": 1000,
+    "akrapovicExhaust": 1500
+  },
+  "interior": {
+    "leatherSterringWheel": 500,
+    "alcantaraOnSeat": 2000,
+    "speedometerInKmh": 100
+  }
+}
+
